@@ -1,2 +1,3 @@
 # it-certification-roadmap
-![](assets/it-certification-roadmap.png)
+![](assets/it-certification-roadmap-p1.jpg)
+![](assets/it-certification-roadmap-p2.jpg)
