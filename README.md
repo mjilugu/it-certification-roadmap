@@ -1,2 +1,2 @@
 # it-certification-roadmap
-![](assets/it-certification-roadmap.pdf)
+![](assets/it-certification-roadmap.png)
